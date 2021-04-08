@@ -1,5 +1,6 @@
 # Tic Tac Toe AI
-Author: *Minh Anh Nguyen*
+Author: *Minh Anh Nguyen*  
+
 This program is a Tictactoe game in which you will play with an AI.  
 
 1. Type this command to open the program in console mode:  
