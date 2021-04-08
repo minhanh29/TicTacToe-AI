@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91a368f3-7829-4c44-8e88-b60c3a44b460" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSpqBhB6jvU3LG3hE7Ht4celq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tester">
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tictactoe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tictactoe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tester" />
+        <item itemvalue="Python.runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91a368f3-7829-4c44-8e88-b60c3a44b460" name="Default Changelist" comment="" />
+      <created>1586739037303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586739037303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1164" height="240" key="GridCell.Tab.0.bottom" timestamp="1586744305246">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586744305246" />
+    <state width="1164" height="240" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1586743599125" />
+    <state width="1164" height="240" key="GridCell.Tab.0.center" timestamp="1586744305245">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586744305245" />
+    <state width="1164" height="240" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1586743599124" />
+    <state width="1164" height="240" key="GridCell.Tab.0.left" timestamp="1586744305245">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586744305245" />
+    <state width="1164" height="240" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1586743599124" />
+    <state width="1164" height="240" key="GridCell.Tab.0.right" timestamp="1586744305246">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586744305246" />
+    <state width="1164" height="240" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1586743599125" />
+    <state width="1164" height="297" key="GridCell.Tab.1.bottom" timestamp="1586740929507">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="297" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586740929507" />
+    <state width="1164" height="297" key="GridCell.Tab.1.center" timestamp="1586740929507">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="297" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1586740929507" />
+    <state width="1164" height="297" key="GridCell.Tab.1.left" timestamp="1586740929506">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="297" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1586740929506" />
+    <state width="1164" height="297" key="GridCell.Tab.1.right" timestamp="1586740929507">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1164" height="297" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1586740929507" />
+    <state x="331" y="248" key="SettingsEditor" timestamp="1586739805642">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="331" y="248" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1586739805642" />
+    <state x="481" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586739844509">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="481" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.947@0.23.1680.947" timestamp="1586739844509" />
+    <state x="310" y="220" key="search.everywhere.popup" timestamp="1586741152695">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="310" y="220" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1586741152695" />
+  </component>
+</project>
